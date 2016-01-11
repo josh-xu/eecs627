@@ -25,4 +25,3 @@ printf $OUT "$temp[1]\n";
 # close files
 close $IN;
 close $OUT;
-

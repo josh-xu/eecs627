@@ -1,0 +1,7 @@
+abcdefg,q_rise,q_fall
+opqrst,1.400254e-09,NaN
+hijklmn,1.411852e-09,NaN
+2,1.423787e-09,NaN
+25.000,1.434638e-09,NaN
+25,1.446142e-09,NaN
+25.0000000,1.457207e-09,NaN

@@ -1,0 +1,39 @@
+$DATA1 SOURCE='HSPICE' VERSION='X-2005.09       '
+$DATA1 SOURCE='HSPICE' VERSION='X-2005.09       '
+.TITLE 'Pre Lab example'
+.TITLE 'Pre Lab example'
+ bias_qb          qb_fall          qb_rise          
+ q_fall            
+                  q_rise           abcdefg
+                  temper           alter#            
+    0.5500000      1.399960e-09       failed      
+         failed         
+                   1.400254e-09      opqrst
+                   25.0000000        1.0000000      
+    0.5510000      1.411731e-09       failed    
+           failed         
+                   1.411852e-09    hijklmn
+                     25.0000000        1.0000000      
+    0.5520000      1.424130e-09       failed
+               failed         
+                   1.423787e-09      2
+                   5.0000000        1.0000000      
+    0.5530000      1.435207e-09       failed           
+    failed         
+                   1.434638e-09      25.000
+                   0000        1.0000000      
+
+
+    0.5540000      1.447014e-09       failed     
+          failed         
+                   1.446142e-09      25
+                   .0000000        1.0000000      
+
+    0.5550000      1.458373e-09       failed     
+          failed         
+                   1.457207e-09      25.0000000  
+                         1.0000000      dsadsa
+  
+
+
+

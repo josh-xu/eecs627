@@ -1,6 +1,6 @@
 # open files for read and write
-my $in_file = "prelab.mt0";
-my $out_file = "prelab.txt";
+my $in_file = "prelab_test.mt0";
+my $out_file = "prelab_test.txt";
 open my $IN, "<", $in_file; # open for reading
 open my $OUT, ">", $out_file; # open for writing
 
